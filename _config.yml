@@ -1,4 +1,4 @@
-layout: stacked # or sidebar
+layout: sidebar # stacked or sidebar
 style: dark
 theme: jekyll-theme-slate
 markdown: kramdown
