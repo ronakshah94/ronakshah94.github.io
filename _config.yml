@@ -21,18 +21,20 @@ defaults:
 social_media:
   facebook: ronak.shah.775
   linkedin: ronakshah94
-  # medium: your_username
   twitter: ronakshah94
   
 projects:
   - name: FactSet Research Systems
     web_url: https://www.factset.com
     image_url: https://www.banklesstimes.com/wp-content/uploads/2018/02/FactSet-Insight-Round-Logo-2.png
+    description: Currently here, as a Software Engineer II in their Fixed Income Analytics team. I develop and embed prepayment models in Python within a giant C++ codebase. Lots of math, lots of code. 
 
   - name: Bridgewater Associates
     web_url: https://www.bridgewater.com
     image_url: https://de.wikipedia.org/wiki/Bridgewater_Associates#/media/Datei:Bridgewater_Associates_logo.svg
+    description: I interned here in Summer '16 in their Trading Team, developing a performance and instrumentation tool for their trading systems in C#. Lots of data and graphs. 
 
   - name: Salesforce
     web_url: https://www.salesforce.com
     image_url: https://github.com/ronakshah94/ronakshah94.github.io/blob/master/assets/salesforce-2.svg
+    description: I interned here in Summer '15 in their Performance Engineering team, developing a system performance and diagnostics tool. First internship, so lots of code and lots of snacks. 
