@@ -31,8 +31,8 @@ projects:
 
   - name: Bridgewater Associates
     web_url: https://www.bridgewater.com
-    image_url: https://en.wikipedia.org/wiki/Bridgewater_Associates#/media/File:Bridgewater_Associates.png
+    image_url: 
 
   - name: Salesforce
     web_url: https://www.salesforce.com
-    image_url: https://www.pointillist.com/wp-content/uploads/2017/10/Salesforce-Commerce-cloud-1024x1024.png
+    image_url: ./assets/salesfore-2.svg
