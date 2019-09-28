@@ -1,7 +1,9 @@
   </body>
   <footer> 
-  <div class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
-  <h3 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">Made with &hearts; by {% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %} in 2019.</h3>
+  <div class="d-md-inline-block mx-3 mb-1 mb-md-0">
+  	<div class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
+  		<p class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">Made with &hearts; by {% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %} in 2019.</p>
+  	</div>
   </div>
   </footer>
 </html>

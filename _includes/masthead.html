@@ -29,9 +29,9 @@
       </div>
     {% endif %}
     {% if user.location %}
-      <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+      <div class="{{ metadata_styles }}">
         {% octicon location height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
-        <a href="https://www.youtube.com/watch?v=le1QF3uoQNg">{{ user.location }}</a>
+        <a href="https://www.youtube.com/watch?v=le1QF3uoQNg" {% if site.style == 'dark' %}class="text-white"{% endif %}>{{ user.location }}</a>
       </div>
     {% endif %}
     {% if site.social_media %}
