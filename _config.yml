@@ -24,10 +24,10 @@ social_media:
   twitter: ronakshah94
   
 projects:
-  - name: FactSet Research Systems
+  - name: FactSet 
     web_url: https://www.factset.com
     image_url: https://www.banklesstimes.com/wp-content/uploads/2018/02/FactSet-Insight-Round-Logo-2.png
-    description: Currently here, as a Software Engineer II in their Fixed Income Analytics team. I develop and embed prepayment models in Python within a giant C++ codebase. Lots of math, lots of code. 
+    description: Currently here, as a Software Engineer II in their Fixed Income Analytics team where I develop and embed prepayment models in Python within a giant C++ codebase. Lots of math, lots of code. 
 
   - name: Bridgewater Associates
     web_url: https://www.bridgewater.com
