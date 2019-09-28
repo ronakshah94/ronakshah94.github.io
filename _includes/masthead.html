@@ -12,14 +12,20 @@
 
 {% if include.metadata %}
   <div class="f4 mb-6">
-    {% if user.name %}
+<!--     {% if user.name %}
       <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
         <a href="https://github.com/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           @{{ user.login }}
         </a>
       </div>
-    {% endif %}
+    {% endif %} -->
+    <div class="{{ metadata_styles }}">
+        {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
+        <a href="ttps://docs.google.com/gview?url=https://github.com/ronakshah94/ronakshah94.github.io/raw/master/assets/ronak_shah_september.pdf&embedded=true" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          Resume
+        </a>
+      </div>
     {% if user.email %}
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
