@@ -25,12 +25,14 @@ social_media:
   twitter: ronakshah94
   
 projects:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: FactSet Research Systems
+    web_url: https://www.factset.com
+    image_url: https://www.banklesstimes.com/wp-content/uploads/2018/02/FactSet-Insight-Round-Logo-2.png
 
-  - name: Web design
+  - name: Bridgewater Associates
+    web_url: https://www.bridgewater.com
+    image_url: https://en.wikipedia.org/wiki/Bridgewater_Associates#/media/File:Bridgewater_Associates.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Salesforce
+    web_url: https://www.salesforce.com
+    image_url: https://www.pointillist.com/wp-content/uploads/2017/10/Salesforce-Commerce-cloud-1024x1024.png
