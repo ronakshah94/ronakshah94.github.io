@@ -26,7 +26,7 @@ social_media:
 projects:
   - name: FactSet 
     web_url: https://www.factset.com
-    image_url: https://www.banklesstimes.com/wp-content/uploads/2018/02/FactSet-Insight-Round-Logo-2.png
+    image_url: https://orbitalinsight.com/wp-content/uploads/2017/08/Factset-logo.png
     description: Currently here, as a Software Engineer II in their Fixed Income Analytics team where I develop and embed prepayment models in Python within a giant C++ codebase. Lots of math, lots of code. 
 
   - name: Bridgewater Associates
