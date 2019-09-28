@@ -31,10 +31,10 @@ projects:
 
   - name: Bridgewater Associates
     web_url: https://www.bridgewater.com
-    image_url: https://de.wikipedia.org/wiki/Bridgewater_Associates#/media/Datei:Bridgewater_Associates_logo.svg
+    image_url: https://upload.wikimedia.org/wikipedia/en/9/96/Bridgewater_Associates.png
     description: I interned here in Summer '16 in their Trading Team, developing a performance and instrumentation tool for their trading systems in C#. Lots of data and graphs. 
 
   - name: Salesforce
     web_url: https://www.salesforce.com
-    image_url: https://github.com/ronakshah94/ronakshah94.github.io/blob/master/assets/salesforce-2.svg
+    image_url: http://pluspng.com/img-png/logo-salesforce-png-icons-logos-emojis-tech-companies-728.png
     description: I interned here in Summer '15 in their Performance Engineering team, developing a system performance and diagnostics tool. First internship, so lots of code and lots of snacks. 
