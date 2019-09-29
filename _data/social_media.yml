@@ -25,4 +25,4 @@ twitter:
 quora:
   name: Quora
   profile_url_prefix: https://quora.com/profile/
-  icon_svg: '<svg width="20" height="20" viewBox="32 25 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="https://upload.wikimedia.org/wikipedia/commons/d/da/Font_Awesome_5_brands_quora.svg" id="Shape" fill="#959da5"></path></svg>'
+  icon_svg: '<svg width="20" height="20" viewBox="32 25 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">< img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Font_Awesome_5_brands_quora.svg" id="Shape" fill="#959da5"/></svg>'
