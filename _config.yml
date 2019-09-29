@@ -20,13 +20,14 @@ defaults:
 
 social_media:
   facebook: ronak.shah.775
-  linkedin: ronakshah94
   twitter: ronakshah94
+  linkedin: ronakshah94
+  quora: ronak-shah-8
 
 bio:
   - present: true
 
-projects:
+experiences:
   - name: FactSet 
     web_url: https://www.factset.com
     image_url: https://orbitalinsight.com/wp-content/uploads/2017/08/Factset-logo.png
@@ -41,3 +42,8 @@ projects:
     web_url: https://www.salesforce.com
     image_url: https://upload.wikimedia.org/wikipedia/de/2/22/Salesforce_Logo_2014.PNG
     description: I interned here in Summer '15 in their Performance Engineering team, developing a system performance and diagnostics tool. First internship, so lots of code and lots of snacks. 
+
+projects:
+  - name:
+    web_url:
+    description:

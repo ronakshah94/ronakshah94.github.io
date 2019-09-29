@@ -1,8 +1,9 @@
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Some places I've worked</h2>
 <div class="d-flex flex-wrap flex-column">
-  {% for project in site.projects %} 
+  {% for experience in site.experiences %}
+    <!-- <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3"> -->  
     <div class="p-5 bg-black">
-    {% include project-card.html %}
+    {% include experience-card.html %}
     </div>
   {% endfor %}
 </div>
