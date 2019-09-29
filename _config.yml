@@ -22,9 +22,10 @@ social_media:
   facebook: ronak.shah.775
   linkedin: ronakshah94
   twitter: ronakshah94
+
 bio:
   - present: true
- 
+
 projects:
   - name: FactSet 
     web_url: https://www.factset.com
