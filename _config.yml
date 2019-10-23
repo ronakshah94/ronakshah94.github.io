@@ -42,7 +42,12 @@ experiences:
     image_url: https://upload.wikimedia.org/wikipedia/de/2/22/Salesforce_Logo_2014.PNG
     description: I interned here in Summer '15 in their Performance Engineering team, developing a system performance and diagnostics tool. First internship, so lots of code and lots of snacks. 
 
-# projects:
-  # - name:
-    # web_url:
-    # description:
+projects:
+  - name: Booksy
+    description: Booksy is a web based ebook reader developed in Python and Flask for my final project at Clark University. I worked with a teammate on this, experimenting with the Google Web Toolkit (v1), a React frontend (v2), finally settling on Python/Flask with javascript add ons for features. The mission for the app was to enable freely available literature on various topics as a viable and free substitute for expensive college textbooks (<a href="https://www.youtube.com/watch?v=t0CyBv18A5k">student loan debts have gone out of control</a>). Currently working on cleaning up and releasing the code.
+
+  - name: Chimpad
+    description: Chimpad is a live code-collaboration tool. I worked with 2 other people on this, developing it from scratch. We used a conventional PHP + PostgreSQL stack for this, having incorporated user accounts, public and private collaboration docs, language specific syntax highlighting, and also a built in live chat.  
+
+  - name: ReadMe.Text
+    description: This was an app I worked on in the Cooper Union Hackathon in Spring 2015. The app is an interactive narration app that uses optical character recognition and gesture recognition by Leap Motion to read any text off images and narrate them using IBM Watson's text-to-speech service. The application was designed to aid the visually impaired. I worked on this in a team of 4, and nabbed the IBM sponsor award in the process. 
