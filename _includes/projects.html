@@ -1,7 +1,7 @@
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Some projects I've worked on</h2>
 <div class="d-flex flex-wrap flex-column">
   {% for project in site.projects %} 
-    <div class="p-5 bg-black">
+    <div class="p-5">
     {% include project-card.html %}
     </div>
   {% endfor %}
